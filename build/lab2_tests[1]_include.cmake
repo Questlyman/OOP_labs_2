@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/OLEG/OneDrive/Рабочий стол/Proga/OOP/lab2/build/lab2_tests[1]_tests.cmake")
+  include("C:/Users/OLEG/OneDrive/Рабочий стол/Proga/OOP/lab2/build/lab2_tests[1]_tests.cmake")
+else()
+  add_test(lab2_tests_NOT_BUILT lab2_tests_NOT_BUILT)
+endif()

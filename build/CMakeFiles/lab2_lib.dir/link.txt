@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc liblab2_lib.a CMakeFiles/lab2_lib.dir/twelve.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe liblab2_lib.a
